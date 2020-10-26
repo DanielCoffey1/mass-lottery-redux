@@ -39,7 +39,6 @@ class DrawList extends React.Component {
 }
 
 const mapStateToProps = (state) => {
-  console.log(state);
   return { draws: state.draws };
 };
 
