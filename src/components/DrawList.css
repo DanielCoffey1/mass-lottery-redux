@@ -1,0 +1,26 @@
+.rendered-list {
+  background-color: #222126;
+  width: 300px;
+  border: 15px solid #2e2d35;
+  padding: 50px;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: 10em;
+  margin-left: 10em;
+}
+
+.rendered-list :hover {
+  color: green;
+  cursor: pointer;
+}
+
+.number {
+  text-align: center;
+  color: #faf9fc;
+}
+
+.date {
+  text-align: center;
+  color: #faf9fc;
+}

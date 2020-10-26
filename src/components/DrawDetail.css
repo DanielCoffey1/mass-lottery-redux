@@ -1,0 +1,47 @@
+.selected-container {
+  background-color: #222126;
+  width: 300px;
+  border: 15px solid #2e2d35;
+  padding: 50px;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 10em;
+  margin-right: 10em;
+  position: fixed;
+  left: 0px;
+}
+
+.default-image {
+  background-color: #222126;
+  width: 400px;
+  height: auto;
+  border: 15px solid #2e2d35;
+  padding: 50px;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 10em;
+  margin-right: 10em;
+  position: fixed;
+  left: 0px;
+}
+
+.default-text {
+  left: 0px;
+}
+
+h1 {
+  color: #faf9fc;
+  text-align: center;
+}
+
+h4 {
+  color: #faf9fc;
+  text-align: center;
+}
+
+p {
+  color: #faf9fc;
+  text-align: center;
+}
